@@ -22,6 +22,24 @@ This project leverages the latest and greatest technologies to deliver an except
 
 ## 🚀 Getting Started
 
+
+
+
+
 Ready to join the conversation? Follow these simple steps to get started with Awesome Chat App:
 
 1. **Clone the Repository:** Start by cloning the repository to your local machine using the following command:
+2. **Navigate to the Project Directory:** Once the repository is cloned, navigate to the project directory using the `cd` command:
+
+3. **Build and Run the Application:** Use Maven to build and run the application. Simply execute the following command:
+
+
+4. **Access the Application:** Once the application is up and running, open your favorite web browser and go to `http://localhost:8080` to access Awesome Chat App.
+
+## 🎨 Contributing
+
+We believe in the power of collaboration and welcome contributions from developers of all skill levels. Whether it's fixing bugs, implementing new features, or improving documentation, your contributions are highly valued. To contribute to Awesome Chat App, simply fork the repository, make your changes, and submit a pull request. Together, we can make Awesome Chat App even better!
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
